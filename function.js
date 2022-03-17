@@ -1,7 +1,7 @@
 // function.js
 
 const sayHello = (firstName, secondName) => {
-    return `Здравствуйте, ${firstName} ${secondName}!`;
+    return `Здравствуйте, дорогая ${firstName} ${secondName}!`;
 };
 
 module.exports = sayHello;
